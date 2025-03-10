@@ -2,4 +2,12 @@
     <string name="app_name">My Paypal Test</string>
     <string name="start_order">Start Order</string>
     <string name="paypal_payment">PayPal Payment</string>
+    <string name="sample_product">Sample Product</string>
+    <string name="perfume">Perfume</string>
+    <string name="_50_00">$50.00</string>
+    <string name="pay_with_paypal">Pay with PayPal</string>
+    <string name="estimated_delivery_march_15_2025">Estimated Delivery: March 15, 2025</string>
+    <string name="_1234_green_street_ny">1234 Green Street, NY</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="high_quality_sound_with_noise_cancellation">High-quality sound with noise cancellation.</string>
 </resources>
